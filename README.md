@@ -125,6 +125,9 @@ If you want to use the same exact theme you need to upload the secundary wallpap
 For the [material gruvbox theme](https://github.com/AllJavi/tartarus-dotfiles/blob/master/Blender/material_gruvbox_dark.xml) on Blender, you just need to install it on `Preferences -> Theme -> install` 
 #
 ### Obsidian
+
+*based on the [theme by AllJavi](https://github.com/AllJavi/material_gruvbox_obsidian)*
+
 ![Screenshot from 2023-09-20 21-47-31](https://github.com/Costeer/Gruvbox-Material-Themes/assets/142180709/dc6994cd-88ac-445a-9a03-3bfa6a3e638f)
 
 **How to Install**
